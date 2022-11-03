@@ -18,5 +18,12 @@ p cash_on_hand.unshift 25.5
 p tasty.pop
 
 # Index positions allow you to access an element in your array. The first element
-# in an Array starts at 0
-p names[2] # will yeild the result "John"
+# in an Array starts at 0.
+# Example:
+p names[2] 
+# will yield the result "John"
+
+# .length will tell you how many elements are in your array.
+# Example:
+p names.length 
+# will yield the result 4

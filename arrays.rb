@@ -16,3 +16,7 @@ p cash_on_hand.unshift 25.5
 
 # removes the last element of an array and returns it.
 p tasty.pop
+
+# Index positions allow you to access an element in your array. The first element
+# in an Array starts at 0
+p names[2] # will yeild the result "John"
